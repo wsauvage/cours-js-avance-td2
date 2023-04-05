@@ -1,0 +1,36 @@
+[
+  {
+    "label": "27 avenue Charles Fandre 51100 Reims",
+    "score": 0.8873118181818181,
+    "housenumber": "27",
+    "id": "51454_1809_00027",
+    "name": "Ecole ",
+    "postcode": "51100",
+    "citycode": "51454",
+    "x": 777129.38,
+    "y": 6907128.64,
+    "city": "Reims",
+    "context": "51, Marne, Grand Est",
+    "type": "housenumber",
+    "importance": 0.76043,
+    "street": "avenue Charles Fandre",
+    "description": "Ru7"
+  },
+  {
+    "label": "155 Rue du Dirigeable 13400 Aubagne",
+    "score": 0.9656181818181816,
+    "housenumber": "155",
+    "id": "13005_0517_00155",
+    "name": "Auchan Aubagne",
+    "postcode": "13400",
+    "citycode": "13005",
+    "x": 911673.02,
+    "y": 6246133.73,
+    "city": "Aubagne",
+    "context": "13, Bouches-du-Rhône, Provence-Alpes-Côte d'Azur",
+    "type": "housenumber",
+    "importance": 0.6218,
+    "street": "Rue du Dirigeable",
+    "description": "Super magasin"
+  }
+]
